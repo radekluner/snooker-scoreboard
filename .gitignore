@@ -1,0 +1,11 @@
+# Ignoruj složku s balíčky
+node_modules/
+
+# Ignoruj logy
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignoruj výstupní složky
+dist/
+build
